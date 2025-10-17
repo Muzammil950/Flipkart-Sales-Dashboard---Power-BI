@@ -16,7 +16,7 @@ The goal of this dashboard is to visualize business insights and support data-dr
 - To identify **Regional Performance Trends** using map visuals.
 
 ---
-![Flipkart Sales Dashboard](powerbi001.png)
+![Flipkart Sales Dashboard]([powerbi001.png](https://github.com/Muzammil950/Flipkart-Sales-Dashboard---Power-BI/blob/b33ee21eebc3d28f2eb68f0738a7e85c3bb88e3e/powerbi001.png))
 
 ## 📈 Key Insights
 - Total **Sales:** 53,179K  
