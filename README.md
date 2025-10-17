@@ -7,7 +7,7 @@ The goal of this dashboard is to visualize business insights and support data-dr
 
 ---
 
-![Flipkart Sales Dashboard](powerbi002.png)
+![Flipkart Sales Dashboard]([powerbi002.png](https://github.com/Muzammil950/Flipkart-Sales-Dashboard---Power-BI/blob/d4bd1470a574949e265da86b401b9026a4ee4267/powerbi002.png))
 
 ## 🎯 Objectives
 - To analyze **Total Sales, Purchase Cost, and Profit**.
